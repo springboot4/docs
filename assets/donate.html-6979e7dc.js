@@ -1,0 +1,1 @@
+import{_ as t,p as n,q as o,s as r}from"./framework-09e3a9c2.js";const s={};function a(l,e){return n(),o("div",null,[...e[0]||(e[0]=[r("p",null,"star一下即是对我们最大的支持🤝",-1)])])}const c=t(s,[["render",a],["__file","donate.html.vue"]]);export{c as default};

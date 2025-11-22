@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6eccda50","path":"/docs/theme-reco/guide/llm.html","title":"大模型开发","lang":"en-US","frontmatter":{"title":"大模型开发"},"headers":[],"git":{"createdTime":1763215917000,"updatedTime":1763215917000,"contributors":[{"name":"付绪壮","email":"2235602974@qq.com","commits":1}]},"filePathRelative":"docs/theme-reco/guide/llm.md"}');export{e as data};
